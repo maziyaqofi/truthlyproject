@@ -1,0 +1,3 @@
+service : {
+  checkNews: (text) -> (text);
+}
